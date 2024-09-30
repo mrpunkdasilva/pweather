@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PWeather</string>
+    <string name="proximos_7_dias"><![CDATA[Próximos 7 dias >]]></string>
+    <string name="hoje">Hoje</string>
+    <string name="humidade">Humidade</string>
+    <string name="velocidade_do_vento">Velocidade do Vento</string>
+    <string name="h_29_l_21">H:29 L:21</string>
+</resources>
