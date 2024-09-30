@@ -5,4 +5,5 @@
     <string name="humidade">Humidade</string>
     <string name="velocidade_do_vento">Velocidade do Vento</string>
     <string name="h_29_l_21">H:29 L:21</string>
+    <string name="title_activity_future">FutureActivity</string>
 </resources>

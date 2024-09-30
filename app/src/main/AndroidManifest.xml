@@ -12,8 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PWeather"
         tools:targetApi="31">
-
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".FutureActivity"
+            android:exported="false"
+            android:label="@string/title_activity_future"
+            android:theme="@style/Theme.PWeather" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,6 +27,5 @@
             </intent-filter>
         </activity>
     </application>
-
 
 </manifest>
