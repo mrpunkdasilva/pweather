@@ -15,8 +15,7 @@
         <activity
             android:name=".FutureActivity"
             android:exported="false"
-            android:label="@string/title_activity_future"
-            android:theme="@style/Theme.PWeather" />
+            android:label="@string/app_name" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
